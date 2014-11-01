@@ -1,6 +1,6 @@
 # Ruboty::MinecraftStatus
 
-TODO: Write a gem description
+ruboty plugin to check minecraft server status.
 
 ## Installation
 
@@ -20,11 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    > @ruboty minecraft status minecraft.example.com
+    A Minecraft Server (0/20):
+    > @ruboty minecraft status minecraft.example.com
+    A Minecraft Server (1/20): blockgiven
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ruboty-minecraft_status/fork )
+1. Fork it ( https://github.com/blockgiven/ruboty-minecraft_status/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
