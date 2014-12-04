@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["block_given?"]
   spec.email         = ["block_given@outlook.com"]
   spec.summary       = %q{ruboty plugin to check minecraft server status.}
-  spec.homepage      = "https://github.com/blockgiven/takumi-server_list_ping"
+  spec.homepage      = "https://github.com/blockgiven/ruboty-minecraft_status"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
